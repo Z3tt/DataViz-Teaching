@@ -10,17 +10,21 @@ Collection of materials created for DataViz teaching.
 
 ***
 
-**Chart Choice and Raw Data:**  
-
-![](https://github.com/Z3tt/DataViz/blob/master/ChartsRaw/charts_raw_panel.png)
-
-***
-
 **[The Datasaurus Dozen](https://blog.revolutionanalytics.com/2017/05/the-datasaurus-dozen.html):**
 
 ![](https://github.com/Z3tt/DataViz/blob/master/Datasaurus/datasauRus.gif)
 
 Based on the [{datasauRus} package by Steph Locke](https://github.com/lockedata/datasauRus/issues) and a [blog post by Thomas Westlake](https://r-mageddon.netlify.com/post/reanimating-the-datasaurus/).
+
+***
+
+**Encodings:**  
+
+![](https://github.com/Z3tt/DataViz/blob/master/Encodings/encoding_scatter.png)
+
+![](https://github.com/Z3tt/DataViz/blob/master/Encodings/encoding_amount.png)
+
+![](https://github.com/Z3tt/DataViz/blob/master/Encodings/encoding_area_radius.png)
 
 ***
 
@@ -30,6 +34,12 @@ Based on the [{datasauRus} package by Steph Locke](https://github.com/lockedata/
 ![](https://github.com/Z3tt/DataViz/blob/master/ChartOfCharts/ChartOfCharts_2019-09-26_IZW.png)
 
 Pictorgrams taken from the [Visualization Universe](http://visualizationuniverse.com/charts/?sortBy=volume&sortDir=desc), created by [Anna Vital](http://anna.vc/) and [Mark Vital](http://fundersandfounders.com/author/mark-vital/) from [Adioma](http://www.labs.adioma.com/) and [Alexander Vushkan](https://www.alexzender.com/) with the assistance of the [Google News Lab](https://newsinitiative.withgoogle.com/training/): [Simon Rogers](https://www.simonrogers.net/) and [Alberto Cairo](http://www.thefunctionalart.com/) for art direction.
+
+***
+
+**Chart Choice and Raw Data:**  
+
+![](https://github.com/Z3tt/DataViz/blob/master/ChartsRaw/charts_raw_panel.png)
 
 ***
 
