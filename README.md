@@ -4,12 +4,6 @@ Collection of materials created for DataViz teaching.
 
 ***
 
-**Presentations:**
-
-[Workshop at the IZW PhD Symposium 2019](https://github.com/Z3tt/DataViz/blob/master/Presentations/2019-09-26_IZW_DataVisualization_share.pdf)
-
-***
-
 **[The Datasaurus Dozen](https://blog.revolutionanalytics.com/2017/05/the-datasaurus-dozen.html):**
 
 ![](https://github.com/Z3tt/DataViz/blob/master/Datasaurus/datasauRus.gif)
