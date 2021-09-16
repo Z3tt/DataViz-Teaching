@@ -1,0 +1,5 @@
+"How to make informative dot plots, box plots and violin plots in R: A Flipbook"
+Contributors: Nico Riedel Robert Schulz Tracey Weissgerber
+
+Project: https://osf.io/h2q7w/
+Flipbook: https://osf.io/vt2ny/
